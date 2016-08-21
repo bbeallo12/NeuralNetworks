@@ -1,0 +1,12 @@
+c:\users\mobulus\documents\visual studio 2013\Projects\NeuralNet_BallTraining\NeuralNet_BallTraining\bin\Debug\NeuralNet_BallTraining.exe.config
+c:\users\mobulus\documents\visual studio 2013\Projects\NeuralNet_BallTraining\NeuralNet_BallTraining\bin\Debug\NeuralNet_BallTraining.exe
+c:\users\mobulus\documents\visual studio 2013\Projects\NeuralNet_BallTraining\NeuralNet_BallTraining\bin\Debug\NeuralNet_BallTraining.pdb
+c:\users\mobulus\documents\visual studio 2013\Projects\NeuralNet_BallTraining\NeuralNet_BallTraining\obj\Debug\NeuralNet_BallTraining.csprojResolveAssemblyReference.cache
+c:\users\mobulus\documents\visual studio 2013\Projects\NeuralNet_BallTraining\NeuralNet_BallTraining\obj\Debug\NeuralNet_BallTraining.exe
+c:\users\mobulus\documents\visual studio 2013\Projects\NeuralNet_BallTraining\NeuralNet_BallTraining\obj\Debug\NeuralNet_BallTraining.pdb
+C:\Users\Brian\Documents\Visual Studio 2013\Projects\NeuralNet_BallTraining\NeuralNet_BallTraining\bin\Debug\NeuralNet_BallTraining.exe.config
+C:\Users\Brian\Documents\Visual Studio 2013\Projects\NeuralNet_BallTraining\NeuralNet_BallTraining\obj\Debug\NeuralNet_BallTraining.exe
+C:\Users\Brian\Documents\Visual Studio 2013\Projects\NeuralNet_BallTraining\NeuralNet_BallTraining\obj\Debug\NeuralNet_BallTraining.pdb
+C:\Users\Brian\Documents\Visual Studio 2013\Projects\NeuralNet_BallTraining\NeuralNet_BallTraining\bin\Debug\NeuralNet_BallTraining.exe
+C:\Users\Brian\Documents\Visual Studio 2013\Projects\NeuralNet_BallTraining\NeuralNet_BallTraining\bin\Debug\NeuralNet_BallTraining.pdb
+C:\Users\Brian\Documents\Visual Studio 2013\Projects\NeuralNet_BallTraining\NeuralNet_BallTraining\obj\Debug\NeuralNet_BallTraining.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+c:\users\mobulus\documents\visual studio 2013\Projects\Complex Neural Network\Complex Neural Network\bin\Debug\Complex Neural Network.exe.config
+c:\users\mobulus\documents\visual studio 2013\Projects\Complex Neural Network\Complex Neural Network\bin\Debug\Complex Neural Network.exe
+c:\users\mobulus\documents\visual studio 2013\Projects\Complex Neural Network\Complex Neural Network\bin\Debug\Complex Neural Network.pdb
+c:\users\mobulus\documents\visual studio 2013\Projects\Complex Neural Network\Complex Neural Network\obj\Debug\Complex Neural Network.exe
+c:\users\mobulus\documents\visual studio 2013\Projects\Complex Neural Network\Complex Neural Network\obj\Debug\Complex Neural Network.pdb
+C:\Users\Brian\Documents\Visual Studio 2013\Projects\Complex Neural Network\Complex Neural Network\bin\Debug\Complex Neural Network.exe.config
+C:\Users\Brian\Documents\Visual Studio 2013\Projects\Complex Neural Network\Complex Neural Network\bin\Debug\Complex Neural Network.exe
+C:\Users\Brian\Documents\Visual Studio 2013\Projects\Complex Neural Network\Complex Neural Network\bin\Debug\Complex Neural Network.pdb
+C:\Users\Brian\Documents\Visual Studio 2013\Projects\Complex Neural Network\Complex Neural Network\obj\Debug\Complex Neural Network.exe
+C:\Users\Brian\Documents\Visual Studio 2013\Projects\Complex Neural Network\Complex Neural Network\obj\Debug\Complex Neural Network.pdb
+C:\Users\Brian\Documents\Visual Studio 2013\Projects\Complex Neural Network\Complex Neural Network\obj\Debug\Complex Neural Network.csprojResolveAssemblyReference.cache

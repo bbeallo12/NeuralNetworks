@@ -1,0 +1,12 @@
+c:\users\mobulus\documents\visual studio 2013\Projects\Neural Network Again\Neural Network Again\bin\Debug\Neural Network Again.exe.config
+C:\Users\Mobulus\Documents\Visual Studio 2013\Projects\Neural Network Again\Neural Network Again\bin\Debug\Neural Network Again.exe
+C:\Users\Mobulus\Documents\Visual Studio 2013\Projects\Neural Network Again\Neural Network Again\bin\Debug\Neural Network Again.pdb
+C:\Users\Mobulus\Documents\Visual Studio 2013\Projects\Neural Network Again\Neural Network Again\obj\Debug\Neural Network Again.exe
+C:\Users\Mobulus\Documents\Visual Studio 2013\Projects\Neural Network Again\Neural Network Again\obj\Debug\Neural Network Again.pdb
+C:\Users\Mobulus\Documents\Visual Studio 2013\Projects\Neural Network Again\Neural Network Again\obj\Debug\Neural Network Again.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2013\Projects\Neural Network Again\Neural Network Again\bin\Debug\Neural Network Again.exe.config
+C:\Users\Brian\Documents\Visual Studio 2013\Projects\Neural Network Again\Neural Network Again\obj\Debug\Neural Network Again.exe
+C:\Users\Brian\Documents\Visual Studio 2013\Projects\Neural Network Again\Neural Network Again\obj\Debug\Neural Network Again.pdb
+C:\Users\Brian\Documents\Visual Studio 2013\Projects\Neural Network Again\Neural Network Again\bin\Debug\Neural Network Again.exe
+C:\Users\Brian\Documents\Visual Studio 2013\Projects\Neural Network Again\Neural Network Again\bin\Debug\Neural Network Again.pdb
+C:\Users\Brian\Documents\Visual Studio 2013\Projects\Neural Network Again\Neural Network Again\obj\Debug\Neural Network Again.csprojResolveAssemblyReference.cache
