@@ -99,10 +99,10 @@ for n = 0:RUNS
     dEdW5 = dEdO*dOdN3*dN3dW5;
     dEdW6 = dEdO*dOdN3*dN3dW6;
 
-    dEdV1 =	dEdO*dOdN3*dN3dH1*dH1dN1*dN1dV1;
-    dEdV2 =	dEdO*dOdN3*dN3dH1*dH1dN1*dN1dV2;
-    dEdV3 =	dEdO*dOdN3*dN3dH2*dH2dN2*dN2dV3;
-    dEdV4 =	dEdO*dOdN3*dN3dH2*dH2dN2*dN2dV4;
+    dEdV1 = dEdO*dOdN3*dN3dH1*dH1dN1*dN1dV1;
+    dEdV2 = dEdO*dOdN3*dN3dH1*dH1dN1*dN1dV2;
+    dEdV3 = dEdO*dOdN3*dN3dH2*dH2dN2*dN2dV3;
+    dEdV4 = dEdO*dOdN3*dN3dH2*dH2dN2*dN2dV4;
     dEdV5 = dEdO*dOdN3*dN3dV5;
     dEdV6 = dEdO*dOdN3*dN3dV6;
 
