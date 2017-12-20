@@ -12,7 +12,6 @@ I uploaded five of my old projects
 		- different methods of backpropagation.  I emulated a ball rolling around a terrain
 		- to find the lowest point.
 	4) "Complex Neural Network"
-		- My most recent project.
 		- This was my first attempt so it's rough around the edges and not very efficient
 		- A neural network with complex values.
 	5) "ComplexNeuralNetwork.m"
